@@ -19,15 +19,15 @@ Here is the dataset:- [**https://www.kaggle.com/datasets/tawsifurrahman/covid19-
 
 The dataset contains 21165 chest X-ray images consisting of 4 different classes: COVID, Normal, Viral Pneumonia, and Lung Opacity. COVID class has 3616 images, Normal class has 10192 images, Viral Pneumonia has 1345 images, and Lung Opacity has 6012 images. There were no duplicate or null images present in the dataset.
 
-**![](media/11b55c92ae576045b225bd7372acbd49.png)**
+**![](./images_readme/count_plot.png)**
 
 We also plotted a few images from each class to aid in the visualization.
 
-![](media/bdbfdab018aa4a597a3570efd30573e6.png)
+![](./images_readme/visualize_1.png)
 
 X-Ray images were also visualized using different channels to get more insight as shown below.
 
-**![](media/418c9648b5f22a39fe9e9a04b1aad62d.png)**
+**![](./images_readme/visualize_2.png)**
 
 **Data Modelling and Preprocessing**
 
@@ -64,7 +64,7 @@ We evaluated the performance of each model and found that the CNN model achieved
 | Artificial Neural Network(ANN)    | 0.8244552058111381 | 0.827683615819209   | 0.803549818475191  |
 | Convolutional Neural Network(CNN) | 0.983151735270379  | 0.9644874899112187  | 0.972922146026623  |
 
-![](media/7a6b76a0995d59a3bbbdaa778890011a.png)![](media/b92f3b4b736e7063323ad187082565a4.png)
+![](./images_readme/acc.png)![](./images_readme/acc_plt.png)
 
 The above graph is for the testing dataset
 
@@ -74,23 +74,23 @@ After the model was trained, it was saved in our local machine using Python’s 
 
 **Screenshots of the webpage:**
 
-![](media/cf6b55ca42907f81ef0df8d532e7b96e.png)
+![](./images_readme/web_1.png)
 
 Choosing the X-ray image of a normal person.
 
-**![](media/89373fc3f2e97321a1f0e0294f4368ce.png)**
+**![](./images_readme/web_2.png)**
 
 **Hitting the predict button**
 
-**![](media/9667272d854917b70a11b41572978bef.png)**
+**![](./images_readme/web_3.png)**
 
 **Choosing the X-ray of a COVID-19-infected person**
 
-**![](media/9cca0908693c91df3b97841aa8f4f5ee.png)**
+**![](./images_readme/web_4.png)**
 
 **Hitting the predict button again**
 
-**![](media/3dff6651b709f0cef10099a7353dfb5e.png)**
+**![](./images_readme/web_5.png)**
 
 **The entire source code of the webpage can be found at this link:** [**https://github.com/lakshmi109/COVID-Detection-Using-X-Ray**](https://github.com/lakshmi109/COVID-Detection-Using-X-Ray)
 
