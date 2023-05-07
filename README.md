@@ -7,7 +7,7 @@
 
 **Machine Learning Pipeline**
 
-![](media/2d9396e408a836032a783af882313906.png)
+![](./images_readme/ml_pipeline.png)
 
 **INTRODUCTION:**
 
