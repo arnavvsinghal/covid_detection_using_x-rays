@@ -106,12 +106,4 @@ We demonstrated our model's effectiveness in accurately diagnosing COVID-19 from
 2.  Integration with other diagnostic tools: While our model can be used as a standalone diagnostic tool, it could also be integrated with other diagnostic tools, such as clinical data or lab results, to provide a more comprehensive picture of a patient's health. Investigating how our model could be combined with other diagnostic tools could be a valuable area of research.
 3.  Expansion to other populations: Our model may have been trained on a specific population or set of populations, such as Qatar, Bangladesh, etc. Investigating how our model performs on other populations, such as different ethnicities or age ranges, could be an important area of research to ensure that our model applies to a wide range of patients.
 
-**INDIVIDUAL CONTRIBUTIONS:**
 
-Lakshmi Niwas Muduli (B21CS040): Worked on the development of the webpage and did the CNN coding part. Also identified the need for image augmentation and implemented it, which improved the accuracy results of the model.
-
-Arnav Singhal (B21CS014): Performed exploratory data analysis and visualized the data using various methods. Implemented the GRAD-CAM functionality, which identified the areas of interest to our model.
-
-Himanshu Gupta(B21CS034): Worked on the front end of the website and handled the coding part of the ANN. He also worked on extending our model, which could provide a multiclass solution.
-
-The report was made through the combined efforts of all three members.
