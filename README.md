@@ -1,10 +1,6 @@
 # covid_detection_using_x-rays
 **COVID Detection Using X-rays**
 
--   Lakshmi Niwas Muduli
--   Arnav Singhal
--   Himanshu Gupta
-
 **Machine Learning Pipeline**
 
 ![](./images_readme/ml_pipeline.png)
